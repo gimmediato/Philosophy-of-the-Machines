@@ -18,9 +18,7 @@ For the complete Table of Contents and full reading experience, refer to the off
 
 Abstract
 
-
 Definition
-
 
 Introduction: The Two Enigmas and the Birth of the Ethical Oversight
 1. Rethinking Labor, Intelligence, and the AI Economy  
