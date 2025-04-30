@@ -1,8 +1,8 @@
 ![Philosophy of the Machines](./resources/images/banner.png)
-# The Philosophy of the Machines  
-### A Manifesto for Humans in the Age of Artificial Agents  
+
 **Release 1.0 – May 2025**  
 By [Generoso Immediato](mailto:generoso.immediato@gmail.com)
+
 ---
 ## About This Manifesto
 
