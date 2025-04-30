@@ -16,9 +16,9 @@ For the complete Table of Contents and full reading experience, refer to the off
 
 ## Topics
 
-Abstract
-Definition
-Introduction: The Two Enigmas and the Birth of the Ethical Oversight
+- Abstract
+- Definition
+- Introduction: The Two Enigmas and the Birth of the Ethical Oversight
 1. Rethinking Labor, Intelligence, and the AI Economy  
 2. From Deterministic Tools to Dynamic Advisors: CAD vs. GenAI  
 3. When the Mirror Mimics Thinking: Digital Twins in the Age of AI  
@@ -29,7 +29,7 @@ Introduction: The Two Enigmas and the Birth of the Ethical Oversight
 8. Why Training Is Not Enough
 9. Ethical Implications: Shared Intelligence, Shared Responsibility  
 10. Reframing AI Efficiency: The Δ–η–ζ Model  
-Conclusion: Beyond Efficiency — Toward a New Human–AI Symbiosis  
+- Conclusion: Beyond Efficiency — Toward a New Human–AI Symbiosis  
 
 ---
 
