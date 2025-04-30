@@ -27,7 +27,7 @@ For the complete Table of Contents and full reading experience, refer to the off
 6. Contradiction 2: Reframing the “Co-Pilot” Metaphor  
 7. Toward a Philosophy of AI-Enabled Work  
 8. Why Training Is Not Enough
-9. Ethical Implications: Shared Intelligence, Shared Responsibility  
+9. Ethical Implications: Shared Intelligence, Shared Responsibility
 10. Reframing AI Efficiency: The Δ–η–ζ Model
 - Conclusion: Beyond Efficiency — Toward a New Human–AI Symbiosis  
 
