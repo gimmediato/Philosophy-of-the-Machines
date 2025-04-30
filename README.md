@@ -17,9 +17,7 @@ For the complete Table of Contents and full reading experience, refer to the off
 ## Topics
 
 Abstract
-
 Definition
-
 Introduction: The Two Enigmas and the Birth of the Ethical Oversight
 1. Rethinking Labor, Intelligence, and the AI Economy  
 2. From Deterministic Tools to Dynamic Advisors: CAD vs. GenAI  
