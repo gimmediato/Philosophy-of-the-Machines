@@ -13,7 +13,7 @@ By [Generoso Immediato](mailto:generoso.immediato@gmail.com)
 This manifesto defines *The Philosophy of the Machines* — a new discipline for understanding how artificial agents reshape cognition, decision-making, and ethical responsibility. It introduces a formal, philosophical, and business-aligned model (Δ–η–ζ) for evaluating AI systems beyond technical performance.
 
 > 📘 For the full reading experience, refer to the official Medium publication:  
-> **[The Philosophy of the Machines on Medium](https://medium.com/your-link-here)**
+> **[The Philosophy of the Machines on Medium](https://medium.com/@generoso.immediato/philosophy-of-the-machine-0590bea0623e)**
 
 ---
 
