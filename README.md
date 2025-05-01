@@ -36,6 +36,14 @@ This manifesto defines *The Philosophy of the Machines* — a new discipline for
 
 ---
 
+## 💛 Support This Work
+
+If you find this manifesto meaningful and wish to support this project:
+
+[**Donate via PayPal**](https://www.paypal.com/donate/?hosted_button_id=BKH7H2T3VBAE6)
+
+---
+
 ## 🔐 License and Usage
 
 This work is protected under copyright.  
