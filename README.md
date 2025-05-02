@@ -1,6 +1,6 @@
 ![Philosophy of the Machines](./resources/images/banner.png)
 
-# 🧠 The Philosophy of the Machines  
+# 🧠 Philosophy of the Machines  
 ### A Manifesto for Humans in the Age of Artificial Agents  
 
 **Release 1.0 – May 2025**  
@@ -10,10 +10,10 @@ By [Generoso Immediato](mailto:generoso.immediato@gmail.com)
 
 ## 📖 About This Manifesto
 
-This manifesto defines *The Philosophy of the Machines* — a new discipline for understanding how artificial agents reshape cognition, decision-making, and ethical responsibility. It introduces a formal, philosophical, and business-aligned model (Δ–η–ζ) for evaluating AI systems beyond technical performance.
+This manifesto defines the *Philosophy of the Machines* — a new discipline for understanding how artificial agents reshape cognition, decision-making, and ethical responsibility. It introduces a formal, philosophical, and business-aligned model (Δ–η–ζ) for evaluating AI systems beyond technical performance.
 
 > 📘 For the full reading experience, refer to the official Medium publication:  
-> **[The Philosophy of the Machines on Medium](https://medium.com/@generoso.immediato/philosophy-of-the-machine-0590bea0623e)**
+> **[Philosophy of the Machines on Medium](https://medium.com/@generoso.immediato/philosophy-of-the-machine-0590bea0623e)**
 
 ---
 
