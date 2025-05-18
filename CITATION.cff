@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Philosophy of the Machines – A Manifesto for Humans in the Age of Artificial Agents"
+authors:
+  - family-names: Immediato
+    given-names: Generoso
+    affiliation: Independent Researcher
+    email: generoso.immediato@gmail.com
+date-released: 2025-05-01
+version: "1.0"
+type: article
+url: https://osf.io/preprints/osf/n9asz/
+repository: https://github.com/gimmediato/Philosophy-of-the-Machines
+abstract: >
+  This manifesto defines the Philosophy of the Machines — a new discipline for understanding how artificial agents reshape cognition, decision-making, and ethical responsibility. It introduces the Δ–η–ζ model as a formal, philosophical, and business-aligned framework for evaluating AI systems beyond technical performance.
+keywords:
+  - artificial intelligence
+  - epistemology
+  - hybrid cognition
+  - ethical oversight
+  - AI ethics
+  - digital twins
+  - cognitive verification
+  - philosophy of technology
+license: CC-BY-NC-ND-4.0

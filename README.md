@@ -8,6 +8,10 @@ By [Generoso Immediato](mailto:generoso.immediato@gmail.com)
 
 ---
 
+[![Cite this Manifesto](https://img.shields.io/badge/Cite-this--manifesto-blue?style=flat-square&logo=academia)](https://osf.io/preprints/osf/n9asz/)
+[![GitHub citation](https://img.shields.io/badge/GitHub-citation-333?logo=github&style=flat-square)](https://github.com/gimmediato/Philosophy-of-the-Machines)
+[![BibTeX citation](https://img.shields.io/badge/Cite-BibTeX-orange?style=flat-square&logo=latex)](https://github.com/gimmediato/Philosophy-of-the-Machines/blob/main/CITATION.md#bibtex-format)
+
 ## 📖 About This Manifesto
 
 This manifesto defines the *Philosophy of the Machines* — a new discipline for understanding how artificial agents reshape cognition, decision-making, and ethical responsibility. It introduces a formal, philosophical, and business-aligned model (Δ–η–ζ) for evaluating AI systems beyond technical performance.
